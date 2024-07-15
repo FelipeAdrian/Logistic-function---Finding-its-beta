@@ -1,5 +1,5 @@
 # Logistic-regression---Find-beta-s
-n this project, we will generate a random list and apply the logistic function to estimate its beta parameters.
+In this project, we will generate a random list and apply the logistic function to estimate its beta parameters.
 
 There are many ways to find parameters for fitting; in this project, we used the Quasi-Newton Method and the Newton Method itself, comparing them to Linear Regression.
 
